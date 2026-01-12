@@ -5,7 +5,7 @@ A browser-based quiz game built using **HTML, CSS, and JavaScript**.
 ---
 
 ## Live Preview : 
-()
+(https://quiz-game-js-01.vercel.app/)
 
 ---
 ## 🚀 Features
