@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <div id="start-screen" class="card">
+      <h2>JavaScript Quiz Game</h2>
+      <p>Answer the questions before time runs out.</p>
+      <p>Wrong answers reveal the correct one.</p>
+      <p>Each question has a 1 minute timer.</p>
+      <button id="start-btn">Start Game</button>
+    </div>
+
+    <div id="quiz-screen" class="card hidden">
+      <div class="top">
+        <span id="timer">60s</span>
+        <span id="score">Score: 0</span>
+      </div>
+
+      <p id="progress"></p>
+      <h3 id="question"></h3>
+
+      <div id="answers"></div>
+    </div>
+
+    <div id="result-screen" class="card hidden">
+      <h2>Game Over</h2>
+      <p id="final-score"></p>
+      <div id="results"></div>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
