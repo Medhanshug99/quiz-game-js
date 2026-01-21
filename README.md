@@ -1,4 +1,4 @@
-# Interactive Quiz Game 🎮
+# Interactive Quiz Game 
 
 A browser-based quiz game built using **HTML, CSS, and JavaScript**.  
 
@@ -8,7 +8,7 @@ A browser-based quiz game built using **HTML, CSS, and JavaScript**.
 (https://quiz-game-js-01.vercel.app/)
 
 ---
-## 🚀 Features
+##  Features
 
 - Card-style question layout
 - Multiple-choice answers as buttons
@@ -19,7 +19,7 @@ A browser-based quiz game built using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - Questions are stored in a JavaScript array as objects.
 - Each question is rendered dynamically using DOM manipulation.
@@ -29,7 +29,7 @@ A browser-based quiz game built using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML
 - CSS
